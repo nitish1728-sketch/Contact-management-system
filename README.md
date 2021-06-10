@@ -12,7 +12,7 @@ Our task is to implement a smarphone directory that collects contact data from t
 
 This project can demonstrate the working of contact book applications and also teach you about data structures like arrays,doubly linked lists.
 
-Typically,**phone book management** encompasses **searhing**, **deleting**, **inserting** operations
+Typically,**phone book management** encompasses **searching**, **deleting**, **inserting** operations
 
 ______________________________________________________________________
 ## Time complexites in O
